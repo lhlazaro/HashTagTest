@@ -1,0 +1,15 @@
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\bin\Debug\net8.0\Hashtag.exe
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\bin\Debug\net8.0\Hashtag.deps.json
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\bin\Debug\net8.0\Hashtag.runtimeconfig.json
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\bin\Debug\net8.0\Hashtag.dll
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\bin\Debug\net8.0\Hashtag.pdb
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\Hashtag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\Hashtag.AssemblyInfoInputs.cache
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\Hashtag.AssemblyInfo.cs
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\Hashtag.csproj.CoreCompileInputs.cache
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\Hashtag.sourcelink.json
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\Hashtag.dll
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\refint\Hashtag.dll
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\Hashtag.pdb
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\Hashtag.genruntimeconfig.cache
+C:\Users\Luis Hernandez\source\repos\Hashtag\Hashtag\obj\Debug\net8.0\ref\Hashtag.dll
